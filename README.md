@@ -7,6 +7,6 @@ Now that I have another repo were I did start to make a website, I gonna use the
 
 Later I pretend to make better loading animations and leave this repo just for them.
 
-The full website using this initial animation can be found at euaaron.github.io or relbeits.net
+The full website using this initial animation can be found at [euaaron.github.io](https://euaaron.github.io)
 
 That's all, folks.
